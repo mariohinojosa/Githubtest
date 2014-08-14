@@ -7,3 +7,5 @@ Here goes consumer behavior
 Part 3
 Here goes Competitor data
 
+Part 4
+(still debating what to add here)
