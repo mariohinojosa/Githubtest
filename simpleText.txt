@@ -6,3 +6,5 @@ Here goes consumer behavior
 
 Part 3
 Here goes Competitor data
+
+CONCLUSION
